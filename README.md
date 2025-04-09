@@ -1,16 +1,24 @@
-# bloc_project
+Likha Card Result Game 🃏🎮
+A Flutter-based mobile game that simulates the Likha card game, a traditional Middle Eastern card game. This app lets players track and manage game results, rounds, and scores with ease. Built with Flutter and BLoC pattern for efficient state management, the game offers a smooth and responsive user experience.
 
-A new Flutter project.
+✨ Features
+🔁 Add and manage multiple rounds
 
-## Getting Started
+🧮 Automatically calculate and display scores
 
-This project is a starting point for a Flutter application.
+👥 Support for multiple players
 
-A few resources to get you started if this is your first Flutter project:
+🧠 State management using BLoC for clean architecture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📱 Responsive and user-friendly UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💾 Local state persistence (optional)
+
+🚀 Tech Stack
+Flutter 🐦
+
+BLoC Pattern for state management
+
+Dart as programming language
+
+flutter run
